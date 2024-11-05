@@ -7,20 +7,20 @@
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Anké, a thrid year full-stack devfeloper currntly studying at Open Window.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.]()
 
 ## 📝 Latest Blog Posts
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogfolio V3 - Update 2022](https://braydoncoyer.dev/blog/blogfolio-v3-update-2022)
-- [How To Create an Animated Loading Spinner with Tailwind CSS](https://braydoncoyer.dev/blog/how-to-create-an-animated-loading-spinner-with-tailwind-css)
-- [Do Interview Kickstart Courses Live Up to the Cost?](https://braydoncoyer.dev/blog/do-interview-kickstart-courses-live-up-to-the-cost)
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
+- [Blogfolio V3 - Update 2022]()
+- [How To Create an Animated Loading Spinner with Tailwind CSS]()
+- [Do Interview Kickstart Courses Live Up to the Cost?]()
+- [5 Basic Tips for Angular Unit Testing]()
+- [Learn How to Click a Button when Angular Unit Testing]()
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -29,7 +29,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<a href="https://github.com/AnkeatOpenWindow/tailwindcss-v2-dark-mode-template">
+<a href="[https://github.com/AnkeatOpenWindow/tailwindcss-v2-dark-mode-template]()">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -132,7 +132,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 >
 > <p>- Jim Halpert</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
+_Quote requested from [The Office API]()_
 
 Check back at the top of the hour for a new quote!
 
