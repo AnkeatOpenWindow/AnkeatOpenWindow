@@ -6,19 +6,7 @@ Hey there 👋
 
 I’m Anké, a thrid year full-stack devfeloper currntly studying at Open Window.
 
-Want to know more about me? [Check out my portfolio.]()
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Blogfolio V3 - Update 2022]()
-- [How To Create an Animated Loading Spinner with Tailwind CSS]()
-- [Do Interview Kickstart Courses Live Up to the Cost?]()
-- [5 Basic Tips for Angular Unit Testing]()
-- [Learn How to Click a Button when Angular Unit Testing]()
-<!-- BLOG-POST-LIST:END -->
+Want to know more about me? [Check out my portfolio.](https://github.com/AnkeatOpenWindow)
 
 <br>
 
@@ -28,7 +16,6 @@ Want to know more about me? [Check out my portfolio.]()
 <a href="https://github.com/AnkeatOpenWindow/EnchantedReviews">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=EnchantedReviews&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 <br>
 
 <a href="https://github.com/AnkeatOpenWindow/PamperPets-front-end">
@@ -44,8 +31,8 @@ Want to know more about me? [Check out my portfolio.]()
 <a href="https://github.com/JugheadStudio/Tradera">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JugheadStudio&repo=Tradera&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 <br>
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
