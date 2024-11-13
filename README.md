@@ -6,7 +6,7 @@ Hey there 👋
 
 I’m Anké, a thrid year full-stack devfeloper currntly studying at Open Window.
 
-Want to know more about me? [Check out my portfolio.](https://github.com/AnkeatOpenWindow)
+Want to know more about me? [Check out my portfolio on GitHub.](https://github.com/AnkeatOpenWindow) and on [Behance](https://www.behance.net/ankeduraan2).
 
 <br>
 
