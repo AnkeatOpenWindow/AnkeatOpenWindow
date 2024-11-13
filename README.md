@@ -28,25 +28,24 @@ Want to know more about me? [Check out my portfolio.]()
 ## 📌 Pinned Repositories
 
 <br>
-
-<a href="[https://github.com/AnkeatOpenWindow/tailwindcss-v2-dark-mode-template]()">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/AnkeatOpenWindow/EnchantedReviews">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=EnchantedReviews&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/AnkeatOpenWindow/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/AnkeatOpenWindow/PamperPets-front-end">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=PamperPets-front-end&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/AnkeatOpenWindow/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/AnkeatOpenWindow/WhisperNotes-app">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=WhisperNotes-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/AnkeatOpenWindow/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/JugheadStudio/Tradera">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JugheadStudio&repo=Tradera&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
