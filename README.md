@@ -16,7 +16,7 @@ Want to know more about me? [Check out my portfolio on GitHub](https://github.co
 <a href="https://github.com/AnkeatOpenWindow/EnchantedReviews">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=EnchantedReviews&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
+
 
 <a href="https://github.com/AnkeatOpenWindow/PamperPets-front-end">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=PamperPets-front-end&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -32,7 +32,13 @@ Want to know more about me? [Check out my portfolio on GitHub](https://github.co
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JugheadStudio&repo=Tradera&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
+<a href="https://github.com/AnkeatOpenWindow/Doctor-s-management-system">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=Doctor-s-management-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
+<a href="https://github.com/AnkeatOpenWindow/Galactic-Getaway-App">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkeatOpenWindow&repo=Galactic-Getaway-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <br>
 
 ## &#x1f4c8; GitHub Stats
