@@ -82,6 +82,10 @@ Want to know more about me? [Check out my portfolio on GitHub](https://github.co
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
+
+
 
 </details>
 
